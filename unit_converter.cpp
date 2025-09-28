@@ -1,6 +1,24 @@
 #include<iostream>
 #include<string>
 using namespace std;
+class unit_converter{
+    public:
+    void length(){
+
+    }
+    void weight(){
+
+    }
+    void temperature(){
+
+    }
+    void currency(){
+
+    }
+    void exit(){
+        
+    }
+};
 int main()
 {
     int num;
